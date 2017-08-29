@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesaguriVRver2.Plugins", "TesaguriVRver2.Plugins.csproj", "{B890BE06-E703-1876-B829-9D0B39C2A882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesaguriVRver2", "TesaguriVRver2.csproj", "{EFBCDE5F-1328-A82C-7A28-C461F6884B52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B890BE06-E703-1876-B829-9D0B39C2A882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B890BE06-E703-1876-B829-9D0B39C2A882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B890BE06-E703-1876-B829-9D0B39C2A882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B890BE06-E703-1876-B829-9D0B39C2A882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFBCDE5F-1328-A82C-7A28-C461F6884B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBCDE5F-1328-A82C-7A28-C461F6884B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBCDE5F-1328-A82C-7A28-C461F6884B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBCDE5F-1328-A82C-7A28-C461F6884B52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
